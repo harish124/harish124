@@ -1,6 +1,6 @@
-# #! B.Harish !#
+# B.Harish <img src = 'https://image.flaticon.com/icons/svg/813/813424.svg' width=30px height=30px> 
 ## Any task can be accomplished when broken down into manageable pieces
-ML,DL Enthusiast,Android App Developer (Kotlin & Java)
+### ML,DL Enthusiast,Android App Developer (Kotlin & Java)
 
 
 <!--**harish124/harish124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->

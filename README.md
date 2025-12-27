@@ -38,4 +38,4 @@ Passionate about leveraging **𝗗𝗲𝘃𝗦𝗲𝗰𝗢𝗽𝘀**, **𝗰𝗹
 - Cryptography
 
 ### Connect with him:
-[LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/in/cyber-harish/))
+[LinkedIn](https://www.linkedin.com/in/cyber-harish/)
